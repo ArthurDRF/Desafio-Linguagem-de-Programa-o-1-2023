@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-
+//To utilizando GITHUB
 // Definindo os 3 Vetores Globais, e uma para a busca dos médicos.
 char medico[20];
 char medico1[20];
